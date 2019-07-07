@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: slight-cream.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Landing Page<br>Per Produk
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+TreniNet bisnis yang Amanah, Syariah, dan Inovatif memiliki banyak keunggulan dibanding bisnis selainnya. Ditambah lagi memiliki banyak produk sarat manfaat, baik produk digital bahkan produk kecantikan dan kesehatan sekalipun, dll. yang bisa menjadi penghasilan tambahan untuk Mitra Bisnisnya. Oleh karena itu team kami memfasilitasi berbagai Landing Page Per Produk, seperti salah satunya [Slight Foot Cream](http://sejutaproduk.com/adminpreneur/slight-foot-cream).
