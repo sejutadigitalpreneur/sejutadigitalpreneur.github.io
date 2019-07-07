@@ -1,0 +1,8 @@
+---
+layout: default
+img: dog.png
+category: Services
+title: Program<br>Mentoring
+description: |
+---
+  Untuk Anda yang ingin mengambil peluang menjadi pengusaha digital dan ingin mengetahui seperti apa TreniNet Community. Langsung ikut saja [Program Mentoring Sejuta Digital Preneur](http://sejutadigitalpreneur.com/adminpreneur) dan ikuti alurnya.
