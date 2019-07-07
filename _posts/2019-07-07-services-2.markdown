@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: paket-sakti.png
 category: Services
-title: Program<br>Mentoring
+title: Paket Sakti<br>Sejuta Digital Preneur
 description: |
 ---
-  Untuk Anda yang ingin mengambil peluang menjadi pengusaha digital dan ingin mengetahui seperti apa TreniNet Community. Langsung ikut saja [Program Mentoring Sejuta Digital Preneur](http://sejutadigitalpreneur.com/adminpreneur) dan ikuti alurnya.
+  Siap-siap bisnis Anda menjadi semakin melesat dengan memanfaatkan paket sakti ini, ribet jadi mudah, lambat jadi cepat, pusing jadi closing. Jika penasaran dengan apa yang akan Anda dapatkan dari paket sakti ini, silahkan ikuti tautan ini [Paket Sakti Sejuta Digital Preneur](http://sejutaproduk.com/adminpreneur/paket-sakti).
