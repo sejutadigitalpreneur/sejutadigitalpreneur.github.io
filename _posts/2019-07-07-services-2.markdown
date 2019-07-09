@@ -5,4 +5,4 @@ category: Services
 title: Paket Sakti<br>Sejuta Digital Preneur
 description: |
 ---
-  Siap-siap bisnis Anda menjadi semakin melesat dengan memanfaatkan paket sakti ini, ribet jadi mudah, lambat jadi cepat, pusing jadi closing. Jika penasaran dengan apa yang akan Anda dapatkan dari paket sakti ini, silahkan ikuti tautan ini [Paket Sakti Sejuta Digital Preneur](http://sejutaproduk.com/adminpreneur/paket-sakti).
+  Sudah menjadi mitra? Siap-siap bisnis Anda menjadi semakin melesat dengan memanfaatkan paket sakti ini, ribet jadi mudah, lambat jadi cepat, pusing jadi closing. Jika penasaran dengan apa yang akan Anda dapatkan dari paket sakti ini, silahkan ikuti tautan ini [Paket Sakti Sejuta Digital Preneur](http://sejutaproduk.com/adminpreneur/paket-sakti).
