@@ -5,4 +5,4 @@ category: Services
 title: Toko<br>Online
 description: |
 ---
-Dengan bergabung [Program Mentoring SDP](https://sejutadigitalpreneur.com/adminpreneur) miliki banyak tools hingga Toko Online, seperti [Toko Online SDP](http://sejutaproduk.com/adminpreneur) ini.
+Dengan bergabung [Program Mentoring SDP](https://sejutadigitalpreneur.com/adminpreneur), Anda akan mendapatkan banyak tools untuk melejitkan bisnis Anda termasuk Toko Online, seperti [Toko Online SDP](http://sejutaproduk.com/adminpreneur) ini.
