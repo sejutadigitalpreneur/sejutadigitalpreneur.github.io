@@ -5,4 +5,4 @@ category: Services
 title: Program<br>Mentoring
 description: |
 ---
-  Untuk Anda yang tertarik dan ingin mengambil peluang menjadi pengusaha digital sebaiknya pahami lebih dulu seperti apa TreniNet Community. Silahkan ikuti tautan berikut [Program Mentoring Sejuta Digital Preneur](http://sejutadigitalpreneur.com/adminpreneur) dan ikuti alurnya.
+  Untuk Anda yang tertarik mengambil peluang menjadi pengusaha digital, caranya mudah... pahami lebih dulu apa itu TreniNet Community. Silahkan ikuti tautan berikut [Program Mentoring Sejuta Digital Preneur](http://sejutadigitalpreneur.com/adminpreneur).
